@@ -35,3 +35,5 @@ YANDEX_API_KEY=
 
 ## 3. Run the Server
 Start the backend server with: to run it, use the command ```node server.js```
+
+And of course, don't forget to download the frontend part - [SMP_Frontend](https://github.com/winipux21/SMP-frontend)

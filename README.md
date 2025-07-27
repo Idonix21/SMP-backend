@@ -1,9 +1,24 @@
-1) Create a folder for your project (Create folder SMP)
-2) After going to the folder, open the command prompt and write "git clone https://github.com/winipux21/SMP-backend"
-3) Next, open the downloaded folder using a convenient code editor and make sure that you have installed Node.js
-4) Use the "npm install" command to install all required dependencies
-5) Since we use PostgreSQL in this program, you will need to download it, I used version 17.5, and you will also need to get the yandex map api for the map.
-6) Now make sure you have the file.env with required variables:
+# SMP Backend Setup Guide
+
+Welcome! This guide will help you set up and run the **SMP Backend** project locally  
+Technologies used: **Node.js**, **PostgreSQL** and **Yandex Maps API**
+
+---
+
+## 1. Clone the Repository
+
+Create a folder for the project, for example "SMP"
+
+Next, use this command to ```git clone https://github.com/winipux21/SMP-backend``` the repository into the created folder
+
+## 2. Install Dependencies
+
+Use the ```npm install``` command to install all required dependencies and you will also need 
+- Install **PostgreSQL** (I used version 17.5)
+- Get the API key for **Yandex Map**
+
+Now make sure you have the file ```.env``` with required variables:
+```
 DB_NAME=
 DB_USER=
 DB_PASSWORD=
@@ -13,5 +28,8 @@ DB_DIALECT=postgres
 PORT = 7000
 JWT_SECRET=your_jwt_secret_key
 FRONTEND_URL=https: 
-YANDEX_API_KEY= 
-7) And finally, to run it, use the command "node server.js"
+YANDEX_API_KEY=
+```
+
+## 3. Run the Server
+Start the backend server with: to run it, use the command ```node server.js```

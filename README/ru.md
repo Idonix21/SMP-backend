@@ -5,7 +5,7 @@
 
 ![Static Badge](https://img.shields.io/badge/Node.js-20.18.3-green?link=https%3A%2F%2Fnodejs.org%2Fen%2Fdownload) ![Static Badge](https://img.shields.io/badge/PostgreSQL-17-blue?link=https%3A%2F%2Fwww.postgresql.org%2Fdownload%2F) ![Static Badge](https://img.shields.io/badge/Jandex%20Map%20API-red?link=https%3A%2F%2Fyandex.ru%2Fmaps-api%2Fdocs)
 
-[english](https://github.com/winipux21/SMP-backend/blob/master/README.md) [russian](https://github.com/winipux21/SMP-backend/blob/master/README/ru.md)
+[english](https://github.com/winipux21/SMP-backend/blob/master/README.md) [русский](https://github.com/winipux21/SMP-backend/blob/master/README/ru.md)
 ---
 
 ## 1. Клонируйте репозиторий

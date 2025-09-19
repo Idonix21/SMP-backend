@@ -12,7 +12,7 @@ Technologies used: **Node.js**, **PostgreSQL** and **Yandex Maps API**
 
 Create a folder for the project, for example "SMP"
 
-Next, use this command to ```git clone https://github.com/winipux21/SMP-backend``` the repository into the created folder
+Next, use this command to ```git clone https://github.com/idonix21/SMP-backend``` the repository into the created folder
 
 ## 2. Install Dependencies
 

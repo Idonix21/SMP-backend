@@ -5,7 +5,7 @@ Technologies used: **Node.js**, **PostgreSQL** and **Yandex Maps API**
 
 ![Static Badge](https://img.shields.io/badge/Node.js-20.18.3-green?link=https%3A%2F%2Fnodejs.org%2Fen%2Fdownload) ![Static Badge](https://img.shields.io/badge/PostgreSQL-17-blue?link=https%3A%2F%2Fwww.postgresql.org%2Fdownload%2F) ![Static Badge](https://img.shields.io/badge/Jandex%20Map%20API-red?link=https%3A%2F%2Fyandex.ru%2Fmaps-api%2Fdocs)
 
-[english](https://github.com/winipux21/SMP-backend/blob/master/README.md) [русский](https://github.com/winipux21/SMP-backend/blob/master/README/ru.md)
+[english](https://github.com/idonix21/SMP-backend/blob/master/README.md) [русский](https://github.com/idonix21/SMP-backend/blob/master/README/ru.md)
 ---
 
 ## 1. Clone the Repository
@@ -37,4 +37,4 @@ YANDEX_API_KEY=
 ## 3. Run the Server
 Start the backend server with: to run it, use the command ```node server.js```
 
-And of course, don't forget to download the frontend part - [SMP-Frontend](https://github.com/winipux21/SMP-frontend)
+And of course, don't forget to download the frontend part - [SMP-Frontend](https://github.com/idonix21/SMP-frontend)
